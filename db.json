@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "userId": 1 },
-    { "id": 2, "title": "Post 2", "userId": 2 },
-    { "id": 3, "title": "Post 3", "userId": 3 }
+    { "id": 1, "title": "Post 1", "userId": 1,"body":"" },
+    { "id": 2, "title": "Post 2", "userId": 2,"body":"" },
+    { "id": 3, "title": "Post 3", "userId": 3,"body":"" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -12,9 +12,9 @@
     "name": "typicode"
   },
   "users":[
-    { "id": 1, "name": "Manh Hung" },
-    { "id": 2, "name": "Hoang Hung" },
-    { "id": 3, "name": "Anh Dam" },
-    { "id": 4, "name": "Truong Bui" }
+    { "id": 1, "name": "Manh Hung", "email": "", "phone": "", "website": "", "company.name": "" },
+    { "id": 2, "name": "Hoang Hung", "email": "", "phone": "", "website": "", "company.name": "" },
+    { "id": 3, "name": "Anh Dam", "email": "", "phone": "", "website": "", "company.name": "" },
+    { "id": 4, "name": "Truong Bui", "email": "", "phone": "", "website": "", "company.name": "" }
   ]
 }
