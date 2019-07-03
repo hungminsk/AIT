@@ -13,7 +13,7 @@
   },
   "users":[
     { "id": 1, "name": "Mạnh Hùng" },
-    { "id": 2, "title": "Hoàng Hưng" },
-    { "id": 3, "title": "Anh Đàm" }
+    { "id": 2, "name": "Hoàng Hưng" },
+    { "id": 3, "name": "Anh Đàm" }
   ]
 }
