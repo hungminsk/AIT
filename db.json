@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "users":[
-    { "id": 1, "name": "Mạnh Hùng" },
-    { "id": 2, "name": "Hoàng Hưng" },
-    { "id": 3, "name": "Anh Đàm" }
+    { "id": 1, "name": "Manh Hung" },
+    { "id": 2, "name": "Hoang Hung" },
+    { "id": 3, "name": "Anh Dam" }
   ]
 }
